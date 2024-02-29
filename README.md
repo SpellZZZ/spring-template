@@ -1,5 +1,5 @@
-# spring-game-template
+# spring-template
 
 the current synchronization is naive
 
-gonna use some socket
+
